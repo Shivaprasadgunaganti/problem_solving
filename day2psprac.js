@@ -55,6 +55,7 @@ for(n of num2){
 }
 console.log(max)
 
+
 num3="5497351"
 // sum1=0,sum2=0
 max=Number(num3[0])

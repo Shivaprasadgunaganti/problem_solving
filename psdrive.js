@@ -32,17 +32,17 @@
 // }
 
 // 4)
-var a
-function age(a){
-sum= a*365
-return sum
-}
-console.log(age(2))
-
-// var year=function age(a){
-
-//     sum=a*365
-    
-//     console.log(sum)
+// var a
+// function age(a){
+// sum= a*365
+// return sum
 // }
-// year(2)
+// console.log(age(2))
+
+var year=function age(a){
+
+    sum=a*365
+    
+    console.log(sum)
+}
+year(2)

@@ -48,7 +48,6 @@ for(k of num1)
         sum1=sum1+Number(k)
     }
 }
-console.log(sum1)
-console.log(sum2)
-
+// console.log(sum1)
+// console.log(sum2)
 
