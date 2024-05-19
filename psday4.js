@@ -1,3 +1,5 @@
+// prime numbers reverse 
+
 // prompt=require(`prompt-sync`)();
 // num= prompt("enter a number:")
 // primerev=""
@@ -18,6 +20,7 @@
 // console.log(primerev)
 
 //smalles unique and smallest duplicate sum
+
 // prompt=require(`prompt-sync`)();
 // num1=prompt("enter a number:")
 // uni="", dup=""
@@ -87,3 +90,9 @@ for(k of uni){
 }
 sum=Number(max1)+Number(max2)
 console.log(sum)
+
+no=prompt("enter a number")
+m=''
+for(p of no){
+    // if(!p.includes)
+}
